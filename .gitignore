@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS-specific metadata
+__MACOSX/
+
+# Spotlight and Finder
+*.swp
+*.swo
+._*
+
+# Trash & Temp files
+.Trashes
+.fseventsd
